@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="535px" height="109px" viewBox="0 0 535 109" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="564px" height="108px" viewBox="0 0 564 108" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
     <title>Untitled</title>
     <desc>Created with Sketch.</desc>
@@ -37,30 +37,30 @@
         </filter>
     </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <text id="Deckon" font-family="MyanmarSangamMN, Myanmar Sangam MN" font-size="98" font-weight="normal" fill="#717171">
-            <tspan x="202" y="91">Deckon</tspan>
-        </text>
-        <g id="Group" transform="translate(11.000000, 8.000000)">
-            <g id="Rectangle">
-                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
-                <use fill="#F9DA44" fill-rule="evenodd" xlink:href="#path-1"></use>
-            </g>
-            <g id="Rectangle">
-                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
-                <use fill="#BA4FA4" fill-rule="evenodd" xlink:href="#path-3"></use>
-            </g>
-            <g id="Rectangle">
-                <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
-                <use fill="#38ADA9" fill-rule="evenodd" xlink:href="#path-5"></use>
-            </g>
-            <g id="Triangle" transform="translate(94.000000, 39.000000) rotate(90.000000) translate(-94.000000, -39.000000) ">
-                <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
-                <use fill="#F9F9F9" fill-rule="evenodd" xlink:href="#path-7"></use>
-            </g>
-            <g id="Triangle" transform="translate(93.000000, 39.000000) rotate(90.000000) translate(-93.000000, -39.000000) ">
-                <use fill="#38ADA9" fill-rule="evenodd" xlink:href="#path-9"></use>
-                <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
-            </g>
-        </g>
-    </g>
-</svg>
+        <g id="Group-3" transform="translate(-315.000000, 0.000000)">
+            <g id="Group-2" transform="translate(326.000000, 0.000000)">
+                <text id="Deckonf" font-family="MyanmarSangamMN, Myanmar Sangam MN" font-size="98" font-weight="normal" fill="#717171">
+                    <tspan x="191" y="91">Deckonf</tspan>
+                </text>
+                <g id="Group" transform="translate(0.000000, 8.000000)">
+                    <g id="Rectangle">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#F9DA44" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <g id="Rectangle">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                        <use fill="#BA4FA4" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    </g>
+                    <g id="Rectangle">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                        <use fill="#38ADA9" fill-rule="evenodd" xlink:href="#path-5"></use>
+                    </g>
+                    <g id="Triangle" transform="translate(94.000000, 39.000000) rotate(90.000000) translate(-94.000000, -39.000000) ">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                        <use fill="#F9F9F9" fill-rule="evenodd" xlink:href="#path-7"></use>
+                    </g>
+                    <g id="Triangle" transform="translate(93.000000, 39.000000) rotate(90.000000) translate(-93.000000, -39.000000) ">
+                        <use fill="#38ADA9" fill-rule="evenodd" xlink:href="#path-9"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
+                    </g>
+      
